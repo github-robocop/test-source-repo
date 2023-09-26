@@ -1,2 +1,2 @@
 # test-source-repo
-test
+tests
